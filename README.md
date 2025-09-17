@@ -47,7 +47,8 @@ npm run dev
 
 Live Demo
 Check out the live version of the app here:  
-[![Visit My Todo App](todo-app-sanjana.netlify.app)]
+[Visit My Todo App](https://todo-app-sanjana.netlify.app)
+
 
 
 
