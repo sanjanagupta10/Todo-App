@@ -36,7 +36,7 @@ my-todo-app/
 
 1- Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/Todo-App.git
+git clone https://github.com/sanjanagupta10/Todo-App.git
 cd Todo-App
 
 2- Install Dependencies
