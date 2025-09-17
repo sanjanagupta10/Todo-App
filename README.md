@@ -44,10 +44,10 @@ npm install
 
 3-Start Development Server
 npm run dev
-
+```
 Live Demo
 Check out the live version of the app here:  
-[Visit My Todo App](https://todo-app-sanjana.netlify.app)
+https://todo-app-sanjana.netlify.app
 
 
 
